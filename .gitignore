@@ -1,0 +1,7 @@
+~.*
+venv/
+*/settings.py
+db.sqlite3
+projetoaula01_03.zip
+.idea
+
